@@ -1,0 +1,6 @@
+{
+  "name": "Wallet Expense Analytics",
+  "description": "Google Wallet expenses calculation and category analyzer with dynamic multi-currency converter, international multi-language interface, and automated Gemini AI spending habits analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
